@@ -1,0 +1,561 @@
+fileFormatVersion: 2
+guid: 8351bd76da0a66b42a6a2a3445758f66
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: joint1
+    100002: joint10
+    100004: joint11
+    100006: joint12
+    100008: joint13
+    100010: joint14
+    100012: joint15
+    100014: joint16
+    100016: joint17
+    100018: joint18
+    100020: joint19
+    100022: joint2
+    100024: joint20
+    100026: joint21
+    100028: joint22
+    100030: joint23
+    100032: joint24
+    100034: joint25
+    100036: joint26
+    100038: joint27
+    100040: joint28
+    100042: joint29
+    100044: joint3
+    100046: joint30
+    100048: joint31
+    100050: joint32
+    100052: joint33
+    100054: joint34
+    100056: joint35
+    100058: joint36
+    100060: joint37
+    100062: joint38
+    100064: joint39
+    100066: joint4
+    100068: joint40
+    100070: joint41
+    100072: joint42
+    100074: joint43
+    100076: joint44
+    100078: joint45
+    100080: joint46
+    100082: joint47
+    100084: joint48
+    100086: joint49
+    100088: joint5
+    100090: joint50
+    100092: joint51
+    100094: joint52
+    100096: joint53
+    100098: joint54
+    100100: joint55
+    100102: joint56
+    100104: joint57
+    100106: joint58
+    100108: joint59
+    100110: joint6
+    100112: joint60
+    100114: joint61
+    100116: joint62
+    100118: joint63
+    100120: joint64
+    100122: joint65
+    100124: joint66
+    100126: joint67
+    100128: joint68
+    100130: joint69
+    100132: joint7
+    100134: joint70
+    100136: joint71
+    100138: joint72
+    100140: joint8
+    100142: joint9
+    100144: //RootNode
+    100146: polySurface41
+    400000: joint1
+    400002: joint10
+    400004: joint11
+    400006: joint12
+    400008: joint13
+    400010: joint14
+    400012: joint15
+    400014: joint16
+    400016: joint17
+    400018: joint18
+    400020: joint19
+    400022: joint2
+    400024: joint20
+    400026: joint21
+    400028: joint22
+    400030: joint23
+    400032: joint24
+    400034: joint25
+    400036: joint26
+    400038: joint27
+    400040: joint28
+    400042: joint29
+    400044: joint3
+    400046: joint30
+    400048: joint31
+    400050: joint32
+    400052: joint33
+    400054: joint34
+    400056: joint35
+    400058: joint36
+    400060: joint37
+    400062: joint38
+    400064: joint39
+    400066: joint4
+    400068: joint40
+    400070: joint41
+    400072: joint42
+    400074: joint43
+    400076: joint44
+    400078: joint45
+    400080: joint46
+    400082: joint47
+    400084: joint48
+    400086: joint49
+    400088: joint5
+    400090: joint50
+    400092: joint51
+    400094: joint52
+    400096: joint53
+    400098: joint54
+    400100: joint55
+    400102: joint56
+    400104: joint57
+    400106: joint58
+    400108: joint59
+    400110: joint6
+    400112: joint60
+    400114: joint61
+    400116: joint62
+    400118: joint63
+    400120: joint64
+    400122: joint65
+    400124: joint66
+    400126: joint67
+    400128: joint68
+    400130: joint69
+    400132: joint7
+    400134: joint70
+    400136: joint71
+    400138: joint72
+    400140: joint8
+    400142: joint9
+    400144: //RootNode
+    400146: polySurface41
+    4300000: polySurface41
+    7400000: shot
+    7400002: movin
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: polySurface41
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: shot
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 48
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: joint44
+        weight: 1
+      - path: joint44/joint45
+        weight: 1
+      - path: joint44/joint45/joint33
+        weight: 1
+      - path: joint44/joint45/joint33/joint34
+        weight: 1
+      - path: joint44/joint45/joint33/joint34/joint35
+        weight: 1
+      - path: joint44/joint45/joint33/joint34/joint35/joint36
+        weight: 1
+      - path: joint44/joint45/joint33/joint34/joint35/joint37
+        weight: 1
+      - path: joint44/joint45/joint33/joint34/joint35/joint37/joint38
+        weight: 1
+      - path: joint44/joint45/joint39
+        weight: 1
+      - path: joint44/joint45/joint39/joint40
+        weight: 1
+      - path: joint44/joint45/joint39/joint40/joint41
+        weight: 1
+      - path: joint44/joint45/joint39/joint40/joint41/joint42
+        weight: 1
+      - path: joint44/joint45/joint39/joint40/joint41/joint43
+        weight: 1
+      - path: joint44/joint45/joint46
+        weight: 1
+      - path: joint44/joint45/joint46/joint1
+        weight: 1
+      - path: joint44/joint45/joint46/joint1/joint2
+        weight: 1
+      - path: joint44/joint45/joint46/joint1/joint2/joint3
+        weight: 1
+      - path: joint44/joint45/joint46/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint44/joint45/joint46/joint5
+        weight: 1
+      - path: joint44/joint45/joint46/joint5/joint6
+        weight: 1
+      - path: joint44/joint45/joint46/joint5/joint6/joint7
+        weight: 1
+      - path: joint44/joint45/joint46/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: joint44/joint45/joint46/joint9
+        weight: 1
+      - path: joint44/joint45/joint46/joint9/joint10
+        weight: 1
+      - path: joint44/joint45/joint46/joint9/joint10/joint11
+        weight: 1
+      - path: joint44/joint45/joint46/joint9/joint10/joint11/joint12
+        weight: 1
+      - path: joint44/joint45/joint46/joint13
+        weight: 1
+      - path: joint44/joint45/joint46/joint13/joint14
+        weight: 1
+      - path: joint44/joint45/joint46/joint13/joint14/joint15
+        weight: 1
+      - path: joint44/joint45/joint46/joint13/joint14/joint15/joint16
+        weight: 1
+      - path: joint44/joint45/joint46/joint17
+        weight: 1
+      - path: joint44/joint45/joint46/joint17/joint18
+        weight: 1
+      - path: joint44/joint45/joint46/joint17/joint18/joint19
+        weight: 1
+      - path: joint44/joint45/joint46/joint17/joint18/joint19/joint20
+        weight: 1
+      - path: joint44/joint45/joint46/joint21
+        weight: 1
+      - path: joint44/joint45/joint46/joint21/joint22
+        weight: 1
+      - path: joint44/joint45/joint46/joint21/joint22/joint23
+        weight: 1
+      - path: joint44/joint45/joint46/joint21/joint22/joint23/joint24
+        weight: 1
+      - path: joint44/joint45/joint46/joint25
+        weight: 1
+      - path: joint44/joint45/joint46/joint25/joint26
+        weight: 1
+      - path: joint44/joint45/joint46/joint25/joint26/joint27
+        weight: 1
+      - path: joint44/joint45/joint46/joint25/joint26/joint27/joint28
+        weight: 1
+      - path: joint44/joint45/joint46/joint29
+        weight: 1
+      - path: joint44/joint45/joint46/joint29/joint30
+        weight: 1
+      - path: joint44/joint45/joint46/joint29/joint30/joint31
+        weight: 1
+      - path: joint44/joint45/joint46/joint29/joint30/joint31/joint32
+        weight: 1
+      - path: joint44/joint45/joint46/joint47
+        weight: 1
+      - path: joint44/joint45/joint46/joint47/joint48
+        weight: 1
+      - path: joint44/joint45/joint46/joint47/joint48/joint49
+        weight: 1
+      - path: joint44/joint45/joint46/joint47/joint48/joint49/joint50
+        weight: 1
+      - path: joint44/joint45/joint46/joint47/joint48/joint49/joint50/joint71
+        weight: 1
+      - path: joint44/joint45/joint46/joint47/joint48/joint49/joint50/joint71/joint72
+        weight: 1
+      - path: joint44/joint51
+        weight: 1
+      - path: joint44/joint51/joint57
+        weight: 1
+      - path: joint44/joint51/joint57/joint65
+        weight: 1
+      - path: joint44/joint51/joint57/joint65/joint66
+        weight: 1
+      - path: joint44/joint51/joint57/joint65/joint66/joint67
+        weight: 1
+      - path: joint44/joint52
+        weight: 1
+      - path: joint44/joint52/joint56
+        weight: 1
+      - path: joint44/joint52/joint56/joint62
+        weight: 1
+      - path: joint44/joint52/joint56/joint62/joint63
+        weight: 1
+      - path: joint44/joint52/joint56/joint62/joint63/joint64
+        weight: 1
+      - path: joint44/joint53
+        weight: 1
+      - path: joint44/joint53/joint55
+        weight: 1
+      - path: joint44/joint53/joint55/joint68
+        weight: 1
+      - path: joint44/joint53/joint55/joint68/joint69
+        weight: 1
+      - path: joint44/joint53/joint55/joint68/joint69/joint70
+        weight: 1
+      - path: joint44/joint54
+        weight: 1
+      - path: joint44/joint54/joint58
+        weight: 1
+      - path: joint44/joint54/joint58/joint59
+        weight: 1
+      - path: joint44/joint54/joint58/joint59/joint60
+        weight: 1
+      - path: joint44/joint54/joint58/joint59/joint60/joint61
+        weight: 1
+      - path: polySurface41
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: movin
+      takeName: Take 001
+      firstFrame: 50
+      lastFrame: 71
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: joint44
+        weight: 1
+      - path: joint44/joint45
+        weight: 1
+      - path: joint44/joint45/joint33
+        weight: 1
+      - path: joint44/joint45/joint33/joint34
+        weight: 1
+      - path: joint44/joint45/joint33/joint34/joint35
+        weight: 1
+      - path: joint44/joint45/joint33/joint34/joint35/joint36
+        weight: 1
+      - path: joint44/joint45/joint33/joint34/joint35/joint37
+        weight: 1
+      - path: joint44/joint45/joint33/joint34/joint35/joint37/joint38
+        weight: 1
+      - path: joint44/joint45/joint39
+        weight: 1
+      - path: joint44/joint45/joint39/joint40
+        weight: 1
+      - path: joint44/joint45/joint39/joint40/joint41
+        weight: 1
+      - path: joint44/joint45/joint39/joint40/joint41/joint42
+        weight: 1
+      - path: joint44/joint45/joint39/joint40/joint41/joint43
+        weight: 1
+      - path: joint44/joint45/joint46
+        weight: 1
+      - path: joint44/joint45/joint46/joint1
+        weight: 1
+      - path: joint44/joint45/joint46/joint1/joint2
+        weight: 1
+      - path: joint44/joint45/joint46/joint1/joint2/joint3
+        weight: 1
+      - path: joint44/joint45/joint46/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint44/joint45/joint46/joint5
+        weight: 1
+      - path: joint44/joint45/joint46/joint5/joint6
+        weight: 1
+      - path: joint44/joint45/joint46/joint5/joint6/joint7
+        weight: 1
+      - path: joint44/joint45/joint46/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: joint44/joint45/joint46/joint9
+        weight: 1
+      - path: joint44/joint45/joint46/joint9/joint10
+        weight: 1
+      - path: joint44/joint45/joint46/joint9/joint10/joint11
+        weight: 1
+      - path: joint44/joint45/joint46/joint9/joint10/joint11/joint12
+        weight: 1
+      - path: joint44/joint45/joint46/joint13
+        weight: 1
+      - path: joint44/joint45/joint46/joint13/joint14
+        weight: 1
+      - path: joint44/joint45/joint46/joint13/joint14/joint15
+        weight: 1
+      - path: joint44/joint45/joint46/joint13/joint14/joint15/joint16
+        weight: 1
+      - path: joint44/joint45/joint46/joint17
+        weight: 1
+      - path: joint44/joint45/joint46/joint17/joint18
+        weight: 1
+      - path: joint44/joint45/joint46/joint17/joint18/joint19
+        weight: 1
+      - path: joint44/joint45/joint46/joint17/joint18/joint19/joint20
+        weight: 1
+      - path: joint44/joint45/joint46/joint21
+        weight: 1
+      - path: joint44/joint45/joint46/joint21/joint22
+        weight: 1
+      - path: joint44/joint45/joint46/joint21/joint22/joint23
+        weight: 1
+      - path: joint44/joint45/joint46/joint21/joint22/joint23/joint24
+        weight: 1
+      - path: joint44/joint45/joint46/joint25
+        weight: 1
+      - path: joint44/joint45/joint46/joint25/joint26
+        weight: 1
+      - path: joint44/joint45/joint46/joint25/joint26/joint27
+        weight: 1
+      - path: joint44/joint45/joint46/joint25/joint26/joint27/joint28
+        weight: 1
+      - path: joint44/joint45/joint46/joint29
+        weight: 1
+      - path: joint44/joint45/joint46/joint29/joint30
+        weight: 1
+      - path: joint44/joint45/joint46/joint29/joint30/joint31
+        weight: 1
+      - path: joint44/joint45/joint46/joint29/joint30/joint31/joint32
+        weight: 1
+      - path: joint44/joint45/joint46/joint47
+        weight: 1
+      - path: joint44/joint45/joint46/joint47/joint48
+        weight: 1
+      - path: joint44/joint45/joint46/joint47/joint48/joint49
+        weight: 1
+      - path: joint44/joint45/joint46/joint47/joint48/joint49/joint50
+        weight: 1
+      - path: joint44/joint45/joint46/joint47/joint48/joint49/joint50/joint71
+        weight: 1
+      - path: joint44/joint45/joint46/joint47/joint48/joint49/joint50/joint71/joint72
+        weight: 1
+      - path: joint44/joint51
+        weight: 1
+      - path: joint44/joint51/joint57
+        weight: 1
+      - path: joint44/joint51/joint57/joint65
+        weight: 1
+      - path: joint44/joint51/joint57/joint65/joint66
+        weight: 1
+      - path: joint44/joint51/joint57/joint65/joint66/joint67
+        weight: 1
+      - path: joint44/joint52
+        weight: 1
+      - path: joint44/joint52/joint56
+        weight: 1
+      - path: joint44/joint52/joint56/joint62
+        weight: 1
+      - path: joint44/joint52/joint56/joint62/joint63
+        weight: 1
+      - path: joint44/joint52/joint56/joint62/joint63/joint64
+        weight: 1
+      - path: joint44/joint53
+        weight: 1
+      - path: joint44/joint53/joint55
+        weight: 1
+      - path: joint44/joint53/joint55/joint68
+        weight: 1
+      - path: joint44/joint53/joint55/joint68/joint69
+        weight: 1
+      - path: joint44/joint53/joint55/joint68/joint69/joint70
+        weight: 1
+      - path: joint44/joint54
+        weight: 1
+      - path: joint44/joint54/joint58
+        weight: 1
+      - path: joint44/joint54/joint58/joint59
+        weight: 1
+      - path: joint44/joint54/joint58/joint59/joint60
+        weight: 1
+      - path: joint44/joint54/joint58/joint59/joint60/joint61
+        weight: 1
+      - path: polySurface41
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

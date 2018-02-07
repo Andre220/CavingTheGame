@@ -1,0 +1,555 @@
+fileFormatVersion: 2
+guid: 4bd971b1fc5d44036adf4f8625890390
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: barbatana
+    100002: cabeca
+    100004: cauda
+    100006: joint11
+    100008: joint26
+    100010: joint28
+    100012: joint29
+    100014: joint30
+    100016: joint31
+    100018: joint7
+    100020: joint7 1
+    100022: joint9
+    100024: joint9 1
+    100026: mandibula
+    100028: nadadeira_inferior_direita
+    100030: nadadeira_inferior_esquerda
+    100032: nadadeira_lado_direito
+    100034: nadadeira_lado_esquerdo
+    100036: pCube1
+    100038: pCube2
+    100040: pCylinder1
+    100042: pCylinder10
+    100044: pCylinder11
+    100046: pCylinder12
+    100048: pCylinder2
+    100050: pCylinder3
+    100052: pCylinder4
+    100054: pCylinder5
+    100056: pCylinder6
+    100058: pCylinder7
+    100060: pCylinder8
+    100062: pCylinder9
+    100064: //RootNode
+    100066: polySurface1
+    100068: polySurface2
+    100070: polySurface3
+    100072: polySurface85
+    100074: pPlane1
+    100076: pPlane2
+    100078: pPlane3
+    100080: pPlane4
+    100082: pPlane5
+    100084: pPlane6
+    100086: sunDirection
+    100088: transform1
+    100090: transform10
+    100092: transform11
+    100094: transform12
+    100096: transform13
+    100098: transform14
+    100100: transform15
+    100102: transform16
+    100104: transform17
+    100106: transform18
+    100108: transform19
+    100110: transform2
+    100112: transform20
+    100114: transform21
+    100116: transform22
+    100118: transform23
+    100120: transform24
+    100122: transform25
+    100124: transform3
+    100126: transform4
+    100128: transform5
+    100130: transform6
+    100132: transform7
+    100134: transform8
+    100136: transform9
+    100138: vert1
+    100140: vert2
+    100142: vert3
+    100144: vert4
+    400000: barbatana
+    400002: cabeca
+    400004: cauda
+    400006: joint11
+    400008: joint26
+    400010: joint28
+    400012: joint29
+    400014: joint30
+    400016: joint31
+    400018: joint7
+    400020: joint7 1
+    400022: joint9
+    400024: joint9 1
+    400026: mandibula
+    400028: nadadeira_inferior_direita
+    400030: nadadeira_inferior_esquerda
+    400032: nadadeira_lado_direito
+    400034: nadadeira_lado_esquerdo
+    400036: pCube1
+    400038: pCube2
+    400040: pCylinder1
+    400042: pCylinder10
+    400044: pCylinder11
+    400046: pCylinder12
+    400048: pCylinder2
+    400050: pCylinder3
+    400052: pCylinder4
+    400054: pCylinder5
+    400056: pCylinder6
+    400058: pCylinder7
+    400060: pCylinder8
+    400062: pCylinder9
+    400064: //RootNode
+    400066: polySurface1
+    400068: polySurface2
+    400070: polySurface3
+    400072: polySurface85
+    400074: pPlane1
+    400076: pPlane2
+    400078: pPlane3
+    400080: pPlane4
+    400082: pPlane5
+    400084: pPlane6
+    400086: sunDirection
+    400088: transform1
+    400090: transform10
+    400092: transform11
+    400094: transform12
+    400096: transform13
+    400098: transform14
+    400100: transform15
+    400102: transform16
+    400104: transform17
+    400106: transform18
+    400108: transform19
+    400110: transform2
+    400112: transform20
+    400114: transform21
+    400116: transform22
+    400118: transform23
+    400120: transform24
+    400122: transform25
+    400124: transform3
+    400126: transform4
+    400128: transform5
+    400130: transform6
+    400132: transform7
+    400134: transform8
+    400136: transform9
+    400138: vert1
+    400140: vert2
+    400142: vert3
+    400144: vert4
+    4300000: polySurface85
+    7400000: Nadando
+    7400002: Mordendo
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: polySurface85
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Nadando
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 44
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: cabeca
+        weight: 1
+      - path: cabeca/joint29
+        weight: 1
+      - path: cabeca/mandibula
+        weight: 1
+      - path: cabeca/mandibula/joint28
+        weight: 1
+      - path: cabeca/vert1
+        weight: 1
+      - path: cabeca/vert1/nadadeira_lado_direito
+        weight: 1
+      - path: cabeca/vert1/nadadeira_lado_direito/joint9
+        weight: 1
+      - path: cabeca/vert1/nadadeira_lado_esquerdo
+        weight: 1
+      - path: cabeca/vert1/nadadeira_lado_esquerdo/joint9 1
+        weight: 1
+      - path: cabeca/vert1/vert2
+        weight: 1
+      - path: cabeca/vert1/vert2/barbatana
+        weight: 1
+      - path: cabeca/vert1/vert2/barbatana/joint11
+        weight: 1
+      - path: cabeca/vert1/vert2/vert3
+        weight: 1
+      - path: cabeca/vert1/vert2/vert3/nadadeira_inferior_direita
+        weight: 1
+      - path: cabeca/vert1/vert2/vert3/nadadeira_inferior_direita/joint7
+        weight: 1
+      - path: cabeca/vert1/vert2/vert3/nadadeira_inferior_esquerda
+        weight: 1
+      - path: cabeca/vert1/vert2/vert3/nadadeira_inferior_esquerda/joint7 1
+        weight: 1
+      - path: cabeca/vert1/vert2/vert3/vert4
+        weight: 1
+      - path: cabeca/vert1/vert2/vert3/vert4/cauda
+        weight: 1
+      - path: cabeca/vert1/vert2/vert3/vert4/cauda/joint26
+        weight: 1
+      - path: cabeca/vert1/vert2/vert3/vert4/joint30
+        weight: 1
+      - path: cabeca/vert1/vert2/vert3/vert4/joint30/joint31
+        weight: 1
+      - path: pCube1
+        weight: 1
+      - path: pCube1/transform1
+        weight: 1
+      - path: pCube2
+        weight: 1
+      - path: pCube2/transform2
+        weight: 1
+      - path: pCylinder1
+        weight: 1
+      - path: pCylinder1/transform24
+        weight: 1
+      - path: pCylinder2
+        weight: 1
+      - path: pCylinder2/transform23
+        weight: 1
+      - path: pCylinder3
+        weight: 1
+      - path: pCylinder3/transform22
+        weight: 1
+      - path: pCylinder4
+        weight: 1
+      - path: pCylinder4/transform21
+        weight: 1
+      - path: pCylinder5
+        weight: 1
+      - path: pCylinder5/transform20
+        weight: 1
+      - path: pCylinder6
+        weight: 1
+      - path: pCylinder6/transform19
+        weight: 1
+      - path: pCylinder7
+        weight: 1
+      - path: pCylinder7/transform18
+        weight: 1
+      - path: pCylinder8
+        weight: 1
+      - path: pCylinder8/transform17
+        weight: 1
+      - path: pCylinder9
+        weight: 1
+      - path: pCylinder9/transform16
+        weight: 1
+      - path: pCylinder10
+        weight: 1
+      - path: pCylinder10/transform15
+        weight: 1
+      - path: pCylinder11
+        weight: 1
+      - path: pCylinder11/transform14
+        weight: 1
+      - path: pCylinder12
+        weight: 1
+      - path: pCylinder12/transform13
+        weight: 1
+      - path: polySurface1
+        weight: 1
+      - path: polySurface1/transform3
+        weight: 1
+      - path: polySurface2
+        weight: 1
+      - path: polySurface2/transform4
+        weight: 1
+      - path: polySurface3
+        weight: 1
+      - path: polySurface3/transform25
+        weight: 1
+      - path: polySurface85
+        weight: 1
+      - path: pPlane1
+        weight: 1
+      - path: pPlane1/transform12
+        weight: 1
+      - path: pPlane2
+        weight: 1
+      - path: pPlane2/transform11
+        weight: 1
+      - path: pPlane3
+        weight: 1
+      - path: pPlane3/transform10
+        weight: 1
+      - path: pPlane4
+        weight: 1
+      - path: pPlane4/transform9
+        weight: 1
+      - path: pPlane5
+        weight: 1
+      - path: pPlane5/transform8
+        weight: 1
+      - path: pPlane6
+        weight: 1
+      - path: pPlane6/transform7
+        weight: 1
+      - path: sunDirection
+        weight: 1
+      - path: transform5
+        weight: 1
+      - path: transform6
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Mordendo
+      takeName: Take 001
+      firstFrame: 48
+      lastFrame: 66
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: cabeca
+        weight: 1
+      - path: cabeca/joint29
+        weight: 1
+      - path: cabeca/mandibula
+        weight: 1
+      - path: cabeca/mandibula/joint28
+        weight: 1
+      - path: cabeca/vert1
+        weight: 1
+      - path: cabeca/vert1/nadadeira_lado_direito
+        weight: 1
+      - path: cabeca/vert1/nadadeira_lado_direito/joint9
+        weight: 1
+      - path: cabeca/vert1/nadadeira_lado_esquerdo
+        weight: 1
+      - path: cabeca/vert1/nadadeira_lado_esquerdo/joint9 1
+        weight: 1
+      - path: cabeca/vert1/vert2
+        weight: 1
+      - path: cabeca/vert1/vert2/barbatana
+        weight: 1
+      - path: cabeca/vert1/vert2/barbatana/joint11
+        weight: 1
+      - path: cabeca/vert1/vert2/vert3
+        weight: 1
+      - path: cabeca/vert1/vert2/vert3/nadadeira_inferior_direita
+        weight: 1
+      - path: cabeca/vert1/vert2/vert3/nadadeira_inferior_direita/joint7
+        weight: 1
+      - path: cabeca/vert1/vert2/vert3/nadadeira_inferior_esquerda
+        weight: 1
+      - path: cabeca/vert1/vert2/vert3/nadadeira_inferior_esquerda/joint7 1
+        weight: 1
+      - path: cabeca/vert1/vert2/vert3/vert4
+        weight: 1
+      - path: cabeca/vert1/vert2/vert3/vert4/cauda
+        weight: 1
+      - path: cabeca/vert1/vert2/vert3/vert4/cauda/joint26
+        weight: 1
+      - path: cabeca/vert1/vert2/vert3/vert4/joint30
+        weight: 1
+      - path: cabeca/vert1/vert2/vert3/vert4/joint30/joint31
+        weight: 1
+      - path: pCube1
+        weight: 1
+      - path: pCube1/transform1
+        weight: 1
+      - path: pCube2
+        weight: 1
+      - path: pCube2/transform2
+        weight: 1
+      - path: pCylinder1
+        weight: 1
+      - path: pCylinder1/transform24
+        weight: 1
+      - path: pCylinder2
+        weight: 1
+      - path: pCylinder2/transform23
+        weight: 1
+      - path: pCylinder3
+        weight: 1
+      - path: pCylinder3/transform22
+        weight: 1
+      - path: pCylinder4
+        weight: 1
+      - path: pCylinder4/transform21
+        weight: 1
+      - path: pCylinder5
+        weight: 1
+      - path: pCylinder5/transform20
+        weight: 1
+      - path: pCylinder6
+        weight: 1
+      - path: pCylinder6/transform19
+        weight: 1
+      - path: pCylinder7
+        weight: 1
+      - path: pCylinder7/transform18
+        weight: 1
+      - path: pCylinder8
+        weight: 1
+      - path: pCylinder8/transform17
+        weight: 1
+      - path: pCylinder9
+        weight: 1
+      - path: pCylinder9/transform16
+        weight: 1
+      - path: pCylinder10
+        weight: 1
+      - path: pCylinder10/transform15
+        weight: 1
+      - path: pCylinder11
+        weight: 1
+      - path: pCylinder11/transform14
+        weight: 1
+      - path: pCylinder12
+        weight: 1
+      - path: pCylinder12/transform13
+        weight: 1
+      - path: polySurface1
+        weight: 1
+      - path: polySurface1/transform3
+        weight: 1
+      - path: polySurface2
+        weight: 1
+      - path: polySurface2/transform4
+        weight: 1
+      - path: polySurface3
+        weight: 1
+      - path: polySurface3/transform25
+        weight: 1
+      - path: polySurface85
+        weight: 1
+      - path: pPlane1
+        weight: 1
+      - path: pPlane1/transform12
+        weight: 1
+      - path: pPlane2
+        weight: 1
+      - path: pPlane2/transform11
+        weight: 1
+      - path: pPlane3
+        weight: 1
+      - path: pPlane3/transform10
+        weight: 1
+      - path: pPlane4
+        weight: 1
+      - path: pPlane4/transform9
+        weight: 1
+      - path: pPlane5
+        weight: 1
+      - path: pPlane5/transform8
+        weight: 1
+      - path: pPlane6
+        weight: 1
+      - path: pPlane6/transform7
+        weight: 1
+      - path: sunDirection
+        weight: 1
+      - path: transform5
+        weight: 1
+      - path: transform6
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
