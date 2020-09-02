@@ -1,5 +1,3 @@
-# Caving The Game
-
 ![Game Title](https://github.com/Andre220/CavingTheGame/blob/master/Promocional/GameTitle.png)</br>
 
 Projeto final do curso técnico de programação de jogos digitiais do SENAI.
