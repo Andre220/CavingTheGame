@@ -1,67 +1,145 @@
 fileFormatVersion: 2
 guid: e75d6502b938da241b71ebb6b38c3b4f
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: Air1
-    21300002: Air2
-    21300004: Air3
-    21300006: Air4
-    21300008: Air5
-    21300010: Air6
-    21300012: Air7
-    21300014: Air8
-    21300016: Air9
-    21300018: Air10
-    21300020: Air11
-    21300022: Air12
-    21300024: Air13
-    21300026: Air14
-    21300028: Air15
-    21300030: Air16
-    21300032: Air1
-    21300034: Air2
-    21300036: Air3
-    21300038: Air4
-    21300040: Air5
-    21300042: Air6
-    21300044: Air7
-    21300046: Air0
-    21300048: Air9
-    21300050: Air10
-    21300052: Air11
-    21300054: Air12
-    21300056: Air13
-    21300058: Air14
-    21300060: Air15
-    21300062: HUD Air Sprite_0
-    21300064: HUD Air Sprite_2
-    21300066: Air8
-  serializedVersion: 2
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Air1
+  - first:
+      213: 21300002
+    second: Air2
+  - first:
+      213: 21300004
+    second: Air3
+  - first:
+      213: 21300006
+    second: Air4
+  - first:
+      213: 21300008
+    second: Air5
+  - first:
+      213: 21300010
+    second: Air6
+  - first:
+      213: 21300012
+    second: Air7
+  - first:
+      213: 21300014
+    second: Air8
+  - first:
+      213: 21300016
+    second: Air9
+  - first:
+      213: 21300018
+    second: Air10
+  - first:
+      213: 21300020
+    second: Air11
+  - first:
+      213: 21300022
+    second: Air12
+  - first:
+      213: 21300024
+    second: Air13
+  - first:
+      213: 21300026
+    second: Air14
+  - first:
+      213: 21300028
+    second: Air15
+  - first:
+      213: 21300030
+    second: Air16
+  - first:
+      213: 21300032
+    second: Air1
+  - first:
+      213: 21300034
+    second: Air2
+  - first:
+      213: 21300036
+    second: Air3
+  - first:
+      213: 21300038
+    second: Air4
+  - first:
+      213: 21300040
+    second: Air5
+  - first:
+      213: 21300042
+    second: Air6
+  - first:
+      213: 21300044
+    second: Air7
+  - first:
+      213: 21300046
+    second: Air0
+  - first:
+      213: 21300048
+    second: Air9
+  - first:
+      213: 21300050
+    second: Air10
+  - first:
+      213: 21300052
+    second: Air11
+  - first:
+      213: 21300054
+    second: Air12
+  - first:
+      213: 21300056
+    second: Air13
+  - first:
+      213: 21300058
+    second: Air14
+  - first:
+      213: 21300060
+    second: Air15
+  - first:
+      213: 21300062
+    second: HUD Air Sprite_0
+  - first:
+      213: 21300064
+    second: HUD Air Sprite_2
+  - first:
+      213: 21300066
+    second: Air8
+  externalObjects: {}
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
   seamlessCubemap: 0
   textureFormat: -3
   maxTextureSize: 4096
   textureSettings:
+    serializedVersion: 2
     filterMode: 1
     aniso: 16
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -69,15 +147,39 @@ TextureImporter:
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: Air1
+    - serializedVersion: 2
+      name: Air1
       rect:
         serializedVersion: 2
         x: 1041
@@ -85,9 +187,20 @@ TextureImporter:
         width: 1041
         height: 1041
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Air2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air2
       rect:
         serializedVersion: 2
         x: 2082
@@ -95,9 +208,20 @@ TextureImporter:
         width: 1041
         height: 1041
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Air3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air3
       rect:
         serializedVersion: 2
         x: 3123
@@ -105,9 +229,20 @@ TextureImporter:
         width: 1041
         height: 1041
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Air4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air4
       rect:
         serializedVersion: 2
         x: 4164
@@ -115,9 +250,20 @@ TextureImporter:
         width: 1041
         height: 1041
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Air5
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air5
       rect:
         serializedVersion: 2
         x: 5205
@@ -125,9 +271,20 @@ TextureImporter:
         width: 1041
         height: 1041
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Air6
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air6
       rect:
         serializedVersion: 2
         x: 6246
@@ -135,9 +292,20 @@ TextureImporter:
         width: 1041
         height: 1041
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Air7
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air7
       rect:
         serializedVersion: 2
         x: 7287
@@ -145,9 +313,20 @@ TextureImporter:
         width: 1041
         height: 1041
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Air0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air0
       rect:
         serializedVersion: 2
         x: 0
@@ -155,9 +334,20 @@ TextureImporter:
         width: 1041
         height: 1041
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Air9
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air9
       rect:
         serializedVersion: 2
         x: 1041
@@ -165,9 +355,20 @@ TextureImporter:
         width: 1041
         height: 1041
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Air10
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air10
       rect:
         serializedVersion: 2
         x: 2082
@@ -175,9 +376,20 @@ TextureImporter:
         width: 1041
         height: 1041
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Air11
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air11
       rect:
         serializedVersion: 2
         x: 3123
@@ -185,9 +397,20 @@ TextureImporter:
         width: 1041
         height: 1041
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Air12
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air12
       rect:
         serializedVersion: 2
         x: 4164
@@ -195,9 +418,20 @@ TextureImporter:
         width: 1041
         height: 1041
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Air13
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air13
       rect:
         serializedVersion: 2
         x: 5205
@@ -205,9 +439,20 @@ TextureImporter:
         width: 1041
         height: 1041
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Air14
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air14
       rect:
         serializedVersion: 2
         x: 6246
@@ -215,9 +460,20 @@ TextureImporter:
         width: 1041
         height: 1041
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Air15
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air15
       rect:
         serializedVersion: 2
         x: 7287
@@ -225,9 +481,20 @@ TextureImporter:
         width: 1041
         height: 1041
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: HUD Air Sprite_0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Air Sprite_0
       rect:
         serializedVersion: 2
         x: 0
@@ -235,9 +502,20 @@ TextureImporter:
         width: 8333
         height: 2083
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: HUD Air Sprite_2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Air Sprite_2
       rect:
         serializedVersion: 2
         x: 0
@@ -245,9 +523,20 @@ TextureImporter:
         width: 8333
         height: 2083
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Air8
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air8
       rect:
         serializedVersion: 2
         x: 0
@@ -255,7 +544,31 @@ TextureImporter:
         width: 1041
         height: 1041
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 
