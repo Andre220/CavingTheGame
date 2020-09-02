@@ -24,8 +24,8 @@ Projeto final do curso técnico de programação de jogos digitiais do SENAI.
   - [ ] Correção do MouseLook.cs, para funcionar com a nova versão do Cardboard SDK
   - [ ] Adição da tela de menu e tela com os créditos in game.
   
-  #### Créditos:
-  ![Créditos com os nomes dos desenvolvedores](https://github.com/Andre220/CavingTheGame/blob/master/Assets/Imagens/CreditosSemBordas.png)
-
   #### Links:
   1. [Página no facebook](https://www.facebook.com/cavingthegame)
+  
+  #### Créditos:
+  ![Créditos com os nomes dos desenvolvedores](https://github.com/Andre220/CavingTheGame/blob/master/Assets/Imagens/CreditosSemBordas.png)
