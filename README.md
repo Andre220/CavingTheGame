@@ -18,7 +18,7 @@ Projeto final do curso técnico de programação de jogos digitiais do SENAI.
   4. 3D Maya
   
   #### Melhorias/Correções:
-  - [ ] Configuração da nova versão do (Cardboard SDK)[https://developers.google.com/cardboard/develop/unity/quickstart]  
+  - [ ] Configuração da nova versão do [Cardboard SDK](https://developers.google.com/cardboard/develop/unity/quickstart)  
   - [ ] Correção da movimentação do player
   - [ ] Correção do shader de água (atualmente utiliza o antigo standard assets)
   - [ ] Correção do MouseLook.cs, para funcionar com a nova versão do Cardboard SDK
